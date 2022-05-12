@@ -4,6 +4,8 @@ description = "Simple Encrypt / Decrypt"
 version = "0.0.1"
 authors = ["Marirs <marirs@gmail.com>"]
 keywords = ["simnple", "encrypt", "encryption", "decrypt", "decryption"]
+readme = "README.md"
+license-file = "LICENSE"
 edition = "2021"
 
 [dependencies]
